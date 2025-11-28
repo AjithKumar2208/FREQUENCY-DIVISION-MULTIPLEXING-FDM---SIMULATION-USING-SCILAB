@@ -85,9 +85,9 @@ for i=1:num subplot(num,1,i); plot(t,demod(i,:)); end
 
 ![WhatsApp Image 2025-11-28 at 22 28 33_d448c0bd](https://github.com/user-attachments/assets/ae726901-3ec8-40e5-8f9b-a1763788154d)
 
-![WhatsApp Image 2025-11-28 at 22 28 32_b094e1c7](https://github.com/user-attachments/assets/ace9b461-5e59-4aa9-a6cd-4f9566c85345)
+![WhatsApp Image 2025-11-28 at 22 36 21_f1d94e11](https://github.com/user-attachments/assets/79f83e12-eed6-4473-a2c6-0fd37e56d296)
 
-![WhatsApp Image 2025-11-28 at 22 28 32_acd915fd](https://github.com/user-attachments/assets/e3e3e7a2-d9f2-41b9-9503-5d6a2bac17bf)
+![WhatsApp Image 2025-11-28 at 22 37 06_912cb079](https://github.com/user-attachments/assets/0b8af559-a757-4f42-83a5-a107dcfcfeb2)
 
 
 # RESULT 
